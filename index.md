@@ -73,7 +73,7 @@ The easy way to watch and custom your own TV channels in Apple TV or IOS devices
     
     Press "Channels" to refresh your Playlist, it will show in the tableview, select one channel.
 
-#### 5. Relax
+#### 5(tvOS). Relax
     
     Relax and watch your favorite shows on your Apple TV.
 
