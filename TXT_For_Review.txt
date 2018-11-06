@@ -1,8 +1,8 @@
 
 
 Move,https://tvplayersupport.github.io/Sample/move.mp4
-adsport1,https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-adsport2,https://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+Adsport1,https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+Adsport2,https://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 
 
 
