@@ -4,12 +4,15 @@
 
 ### Welcome to access：[http://www.yutianjian.com](http://www.yutianjian.com)
 
+The easy way to watch and custom your own TV channels in Apple TV or IOS devices.
+
 ### Features
 
 - Support m3u8 TV/Radio live Broadcast, you can custom your own TV/Radio channel.
 - Support TXT and M3U playlist.
 - Support  media formats such as m3u8, mp4, mp3. . . . . .
-- Support multi Playlists, and auto save your TXT and M3U Playlist.
+- Support multi download links for remote Playlist, and auto save your TXT and M3U Playlist.
+- Easy to use and simple user interface.
 
 ### How it works?
 
@@ -54,9 +57,25 @@
 - etc. . . . . .
 - Save your xxx.txt file as UTF-8 format, then change its extension from xxx.txt to xxx.m3u.
 
-#### 2. Drag your xxx.txt or xxx.m3u file to the App window or open it.
+#### 2(tvOS). Upload your txt or m3u playlist to one or your own website and get its download link
+   
+   For example:  
+ - Your xxx.txt playlist download link:  https://yourname.github.io/txt/xxx.txt
+ - Your xxx.m3u playlist download link:  https://yourname.github.io/m3u/xxx.m3u
+ - Do NOT zip your xxx.txt or xxx.m3u playlists.
 
-#### 3. Relax and watch your favorite shows on your Mac.
+#### 3(tvOS). Set the download link
+    
+    Press “Setting”, Enter your link to the textfield and “Save”.
+    Support multi playlist download link.
+
+#### 4(tvOS). Refresh Channels
+    
+    Press "Channels" to refresh your Playlist, it will show in the tableview, select one channel.
+
+#### 5. Relax
+    
+    Relax and watch your favorite shows on your Apple TV.
 
 ## EULA
 
