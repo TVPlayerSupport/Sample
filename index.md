@@ -1,37 +1,96 @@
-## Welcome to GitHub Pages
+## Welcome to fast IPTV Player Support (tvOS and IOS)
 
-You can use the [editor on GitHub](https://github.com/TVPlayerSupport/Sample/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Feel free to mail me：yu_tian_jian@163.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Welcome to access：[http://www.yutianjian.com](http://www.yutianjian.com)
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Support m3u8 TV/Radio live Broadcast, you can custom your own TV/Radio channel.
+- Support TXT and M3U playlist.
+- Support  media formats such as m3u8, mp4, mp3. . . . . .
+- Support multi Playlists, and auto save your TXT and M3U Playlist.
 
-```markdown
-Syntax highlighted code block
+### How it works?
 
-# Header 1
-## Header 2
-### Header 3
+#### 1. Make your own Playlist
 
-- Bulleted
-- List
+ A. Make your own TXT playlist
 
-1. Numbered
-2. List
+- Name your playlist as xxx.txt, then edit and save your file in format as below:
+ 
+- TV or Radio Channel,Media Source Link
+- One line one TV or Radio channel (do not forget The comma)
+- For example:
+- (line 1) TV 1,http://streamer.oodlz.it/hls/livestream.m3u8
+- (line 2) TV 2,http://stream.1music.hu/stream/1music.m3u8
+- (line 3) Radio 1,http://icestreaming.rai.it/1.mp3
+- etc. . . . . .
+- (Save your xxx.txt file as UTF-8) 
 
-**Bold** and _Italic_ and `Code` text
+ B. Make your own M3U playlist (format 1)
 
-[Link](url) and ![Image](src)
-```
+- Name your playlist as xxx.txt, then edit and save your file in format as below:
+- #EXTM3U
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 1
+- Channel 1,https://edge.music-choice-play-chaina/play/chunklist.m3u8
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 2
+- Channel 2,https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 3
+- Channel 3,http://77.89.199.174:81/hls/live2.m3u8
+- etc. . . . . .
+- Save your xxx.txt file as UTF-8 format, then change its extension from xxx.txt to xxx.m3u.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ C. Make your own M3U playlist (format 2)
 
-### Jekyll Themes
+- Name your playlist as xxx.txt, then edit and save your file in format as below:
+- #EXTM3U
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 1
+- https://edge.music-choice-play-chaina/play/chunklist.m3u8
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 2
+- https://nhkworld.webcdn.stream.ne.jp/live_wa_s.m3u8
+- #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel 3
+- http://77.89.199.174:81/hls/live2.m3u8
+- etc. . . . . .
+- Save your xxx.txt file as UTF-8 format, then change its extension from xxx.txt to xxx.m3u.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TVPlayerSupport/Sample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 2. Drag your xxx.txt or xxx.m3u file to the App window or open it.
 
-### Support or Contact
+#### 3. Relax and watch your favorite shows on your Mac.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## EULA
+
+- IPTV Player is an advanced player that use TXT and M3U user created playlists.
+- IPTV Player do not provide any actual playlists or contents.
+- It may provide sample playlists with channels that can not be opened but these are used as samples for the users to better understanding of playlist formats.
+- This application is designed to use with user own or created playlist with legal contents.
+- You are responsible to check your created playlists/contents are legal and you have fully rights to use.
+- I am not responsible for misuse of copyright or third party contents using this application and please check your contents are legal and/or you have rights to use.
+- By using this application means you accepts above terms and conditions.
+
+## DISCLAIMER 
+
+- IPTV Player does not supply or include any media or content. 
+- IPTV Player has no affiliation with any third-party provider what so ever.
+- Users must provide their own contents.
+- I do not endorse the streaming of copyright protected material without permission of the copyright holder.
+
+## About TXT Sample Playlist
+
+- The following sample playlist with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats. 
+- [Download the TXT Sample Playlist](https://TVPlayerSupport.github.io/Playlist/PlaylistEn.txt.zip) 
+
+## About M3U Sample Playlist
+
+- The following sample playlists with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats.
+- If IPTV Player can not read your M3U Playlist, please check the format of your M3U file, its format should be the same as the following sample file. 
+- I am very happy if you send your M3U playlist to me by email, I will use your file to test and improve IPTV Player. 
+
+- M3U (Format-1) Sample Playlist
+- [Download M3U（Format1）Sample Playlist](https://TVPlayerSupport.github.io/txt/M3U-1.m3u.zip)
+
+- M3U (Format-2) Sample Playlist
+- [Download M3U（Format2）Sample Playlist](https://TVPlayerSupport.github.io/txt/M3U-2.m3u.zip)
+
+## If you have any questions about making playlist
+- Feel free to mail me：yu_tian_jian@163.com
