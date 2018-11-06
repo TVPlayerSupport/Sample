@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",Move
+https://tvplayersupport.github.io/Sample/move.mp4
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",adsport1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",adsport2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
