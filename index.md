@@ -79,8 +79,8 @@ The easy way to watch and custom your own TV channels in Apple TV or IOS devices
 
 ## EULA
 
-- IPTV Player is an advanced player that use TXT and M3U user created playlists.
-- IPTV Player do not provide any actual playlists or contents.
+- fast IPTV Player is an advanced player that use TXT and M3U user created playlists.
+- It does not provide any actual playlists or contents.
 - It may provide sample playlists with channels that can not be opened but these are used as samples for the users to better understanding of playlist formats.
 - This application is designed to use with user own or created playlist with legal contents.
 - You are responsible to check your created playlists/contents are legal and you have fully rights to use.
@@ -89,8 +89,8 @@ The easy way to watch and custom your own TV channels in Apple TV or IOS devices
 
 ## DISCLAIMER 
 
-- IPTV Player does not supply or include any media or content. 
-- IPTV Player has no affiliation with any third-party provider what so ever.
+- fast IPTV Player does not supply or include any media or content. 
+- It has no affiliation with any third-party provider what so ever.
 - Users must provide their own contents.
 - I do not endorse the streaming of copyright protected material without permission of the copyright holder.
 
@@ -102,7 +102,7 @@ The easy way to watch and custom your own TV channels in Apple TV or IOS devices
 ## About M3U Sample Playlist
 
 - The following sample playlists with channels that can not be opened but these are used as samples just for you to better understanding of playlist formats.
-- If IPTV Player can not read your M3U Playlist, please check the format of your M3U file, its format should be the same as the following sample file. 
+- If fast IPTV Player can not read your M3U Playlist, please check the format of your M3U file, its format should be the same as the following sample file. 
 - I am very happy if you send your M3U playlist to me by email, I will use your file to test and improve IPTV Player. 
 
 - M3U (Format-1) Sample Playlist
